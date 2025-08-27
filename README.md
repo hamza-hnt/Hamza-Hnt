@@ -1,9 +1,6 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a passionate and curious software engineering student in Computer Science with a knack for solving complex problems and building scalable solutions. I thrive on learning new technologies and exploring everything I can discover in the tech world.<br><br>- 🎓 : Currently pursuing a degree in Computer Science at EPITA.<br>- 💻 : Proficient in C, C++,Java, JavaScript Python, and Shell scripting. Familiar with system programming, algorithms, and data structures.<br>- 🚀 : I've worked on a variety of projects, including custom memory allocators, torrent file parsers, and Discord bots.<br>- 🔧 : Coding, weightlifting, and experimenting with new tools or frameworks.<br><br>
+Hi there! 👋<br>I'm a passionate and curious software engineering student in Computer Science with a knack for solving complex problems and building scalable solutions. I thrive on learning new technologies and exploring everything I can discover.<br>- 💻 : Proficient in C, C++,Java, JavaScript Python, and Shell scripting. Familiar with system programming, algorithms,  data structures...<br>- 🚀 : I've worked on a variety of projects, including custom memory allocators, torrent file parsers,  Discord bots,  Micro Services, Compiler,Full-Stack apps...<br>- 🔧 : Maths, Weightlifting, Coding, Philosophy, Quantum Physics, Cinema Enthusiast<br><br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamza-hannat-424a3b346/) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -35,17 +32,18 @@ Most of the projects on this Git account are private, but feel free to reach out
 
 Here are a few examples of the projects I have worked on:
 
-- **42sh**: A custom shell implementation in C with advanced features like AST parsing and command execution.
-- **Bittorrent**: A lightweight BitTorrent client with a focus on metadata parsing and efficient file handling.
-- **Tiger**: A compiler in C++, following the front-end/middle-end/back-end architecture, including lexical analysis, parsing...
-- **malloc**: A custom memory allocator built from scratch, including implementations for `malloc`, `free`, and `realloc`.
-- **myfind**: A command-line utility similar to `find`, capable of parsing complex queries and generating an abstract syntax tree (AST).
+- **42sh**: A custom POSIX-compliant shell in C, supporting redirections, pipes, built-ins, and control structures.  
+- **BitTorrent**: A lightweight client in C implementing the BitTorrent protocol with metadata parsing and efficient file handling.  
+- **Tiger**: A modular compiler in C++ for the Tiger language, including lexical analysis, parsing, AST construction, desugaring, and IR generation.  
+- **malloc**: A custom memory allocator in C, implementing `malloc`, `free`, and `realloc` from scratch.  
+- **myfind**: A command-line tool similar to `find`, capable of parsing complex queries and building an AST for flexible file searching.  
+- **ERO**: A Python project for graph-based optimization, modeling drones and snowplows routes on real OSM data with algorithms like Eulerian paths and Chinese Postman.  
+- **PING**: A workspace manager (IDE) built with Quarkus and React, featuring JWT authentication, project/folder/file management APIs, and OpenAPI documentation.  
 
-## Contact
 
-If you're interested in any of these projects, feel free to contact me at **hamza.hannat@epita.fr**. I'd be happy to share details or discuss potential opportunities.
 
 Thank you for visiting my repository!
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
