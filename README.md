@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif)
+![MasterHead](https://i.pinimg.com/originals/87/ee/68/87ee686ee81f2d80c84c6b8712cfc2a7.gif)
 
 # 💫 About Me:
 Hi there! 👋<br>I'm a passionate and curious software engineering student in Computer Science with a knack for solving complex problems and building scalable solutions. I thrive on learning new technologies and exploring everything I can discover.<br>- 💻 : Proficient in C, C++,Java, JavaScript Python, and Shell scripting. Familiar with system programming, algorithms,  data structures...<br>- 🚀 : I've worked on a variety of projects, including custom memory allocators, torrent file parsers,  Discord bots,  Micro Services, Compiler,Full-Stack apps...<br>- 🔧 : Maths, Weightlifting, Coding, Philosophy, Quantum Physics, Cinema Enthusiast<br><br>
