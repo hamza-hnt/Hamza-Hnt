@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtxNHoyaGYzcjRvb2RnOTlsbTV5dzY1bWtseTlrZXExOTR6bm0zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif)
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBjdHhwY2xiNDZjdHN1eG9lYTBlMjI5ZG5yMnliem51Nmx3NHV1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
 
 # 💫 About Me:
 Hi there! 👋<br>I'm a passionate and curious software engineering student in Computer Science with a knack for solving complex problems and building scalable solutions. I thrive on learning new technologies and exploring everything I can discover.<br>- 💻 : Proficient in C, C++,Java, JavaScript Python, and Shell scripting. Familiar with system programming, algorithms,  data structures...<br>- 🚀 : I've worked on a variety of projects, including custom memory allocators, torrent file parsers,  Discord bots,  Micro Services, Compiler,Full-Stack apps...<br>- 🔧 : Maths, Weightlifting, Coding, Philosophy, Quantum Physics, Cinema Enthusiast<br><br>
