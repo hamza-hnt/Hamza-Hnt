@@ -1,4 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/87/ee/68/87ee686ee81f2d80c84c6b8712cfc2a7.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/87/ee/68/87ee686ee81f2d80c84c6b8712cfc2a7.gif" />
+</p>
 
 # 💫 About Me:
 Hi there! 👋<br>
