@@ -1,8 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/87/ee/68/87ee686ee81f2d80c84c6b8712cfc2a7.gif)
 
 # 💫 About Me:
-Hi there! 👋<br>I'm a passionate and curious software engineering student in Computer Science with a knack for solving complex problems and building scalable solutions. I thrive on learning new technologies and exploring everything I can discover.<br>- 💻 : Proficient in C, C++,Java, JavaScript Python, and Shell scripting. Familiar with system programming, algorithms,  data structures...<br>- 🚀 : I've worked on a variety of projects, including custom memory allocators, torrent file parsers,  Discord bots,  Micro Services, Compiler,Full-Stack apps...<br>- 🔧 : Maths, Weightlifting, Coding, Philosophy, Quantum Physics, Cinema Enthusiast<br><br>
+Hi there! 👋<br>
+I'm a software engineering student passionate about building reliable systems, scalable software, and clean technical solutions.<br>
+I enjoy working on projects that combine strong technical foundations with real delivery challenges: automation, CI/CD, distributed systems, infrastructure, APIs, and developer tooling. Beyond implementation, I’m especially motivated by the broader business view of engineering — discussing product needs, translating them into architecture and system design decisions, and contributing through ownership, coordination, and leadership.
 
+- 💻 : Strong focus on C, C++, Java, Python, TypeScript, and Shell, with hands-on experience in systems programming, software architecture, backend development, and cloud/infrastructure projects.<br>
+- 🚀 : I have worked on platform engineering, hybrid cloud architecture, event-driven systems, AI-powered applications, Full-Stack Apps, compilers, UNIX tools, and protocol-oriented projects.<br>
+- 🔧 : Maths, Weightlifting, Philosophy, Quantum Physics, Cinema Enthusiast<br><br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -28,21 +33,20 @@ Hi there! 👋<br>I'm a passionate and curious software engineering student in C
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 # Projects 📄
 
-Most of the projects on this Git account are private, but feel free to reach out if you're interested in any specific project. I can make them available upon request. 
+Most of the projects on this GitHub account are private, but feel free to reach out if you want to know more about a specific one.
 
 ## Featured Projects
 
-Here are a few examples of the projects I have worked on:
+Here are some of the projects that best represent my work across platform engineering, software architecture, full-stack development, and low-level systems:
 
-- **42sh**: A custom POSIX-compliant shell in C, supporting redirections, pipes, built-ins, and control structures.  
-- **BitTorrent**: A lightweight client in C implementing the BitTorrent protocol with metadata parsing and efficient file handling.  
-- **Tiger**: A modular compiler in C++ for the Tiger language, including lexical analysis, parsing, AST construction, desugaring, and IR generation.  
-- **malloc**: A custom memory allocator in C, implementing `malloc`, `free`, and `realloc` from scratch.  
-- **myfind**: A command-line tool similar to `find`, capable of parsing complex queries and building an AST for flexible file searching.  
-- **ERO**: A Python project for graph-based optimization, modeling drones and snowplows routes on real OSM data with algorithms like Eulerian paths and Chinese Postman.  
-- **PING**: A workspace manager (IDE) built with Quarkus and React, featuring JWT authentication, project/folder/file management APIs, and OpenAPI documentation.  
-
-
+- **CNP**: Platform engineering project where developers push code to GitHub and the platform automatically handles infrastructure provisioning, CI/CD pipeline creation, deployment, messaging components, and monitoring when needed.
+- **Resilient Hybrid Cloud Architecture**: Self-service, redundant hybrid cloud architecture combining Azure and private cloud infrastructure, with high availability, secure networking, and resilient PostgreSQL failover.
+- **UBSI**: Designed and delivered a complete information system during a large-scale simulation involving around 50 participants, with major contributions to the architecture and DevOps workstreams.
+- **AURA**: Fully local AI assistant with JWT authentication, persistent memory, and PDF-aware Q&A, built with Spring Boot, Angular, PostgreSQL, and Ollama.
+- **PING**: Workspace manager built with Quarkus and React, featuring JWT authentication, project/folder/file management, and a documented REST API.
+- **42sh**: POSIX-compliant UNIX shell in C supporting redirections, pipes, control structures, built-ins, and environment management.
+- **My-BitTorrent**: Modular BitTorrent client in C focused on protocol handling, peer communication, piece exchange, and clean architecture.
+- **Tiger Compiler**: Modular compiler pipeline for the Tiger language, including lexical analysis, parsing, AST construction, desugaring, and intermediate representation generation.
 
 Thank you for visiting my repository!
 
