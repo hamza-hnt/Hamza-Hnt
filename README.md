@@ -17,24 +17,6 @@
 </p>
 
 ---
-
-<h3 align="center">Identity Decomposition</h3>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Discipline</b></td>
-    <td align="center"><b>Approach</b></td>
-    <td align="center"><b>Drive</b></td>
-  </tr>
-  <tr>
-    <td align="center">Systems thinking</td>
-    <td align="center">From business need to technical execution</td>
-    <td align="center">Ownership, clarity, and delivery</td>
-  </tr>
-</table>
-
----
-
 ## About Me
 
 I am a software engineering student passionate about building clean, reliable, and scalable systems.
