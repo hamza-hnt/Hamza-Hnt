@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=C9D1D9&center=true&vCenter=true&width=900&lines=HAMZA+HANNAT;Software+Engineering+Student;Systems+%7C+Architecture+%7C+Cloud+%7C+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=C9D1D9&center=true&vCenter=true&width=900&lines=HAMZA;Software+Engineering+Student;Systems+%7C+Architecture+%7C+Cloud+%7C+Delivery" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/87/ee/68/87ee686ee81f2d80c84c6b8712cfc2a7.gif" />
 </p>
 
-<h1 align="center">HAMZA HANNAT</h1>
+<h1 align="center">HAMZA</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-hannat-424a3b346/">
