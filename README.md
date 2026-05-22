@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/87/ee/68/87ee686ee81f2d80c84c6b8712cfc2a7.gif" />
+  <img src="https://i1-c.pinimg.com/1200x/e1/14/6c/e1146c00c29e186d64fac7989b06df0b.jpg" />
 </p>
 
 <h1 align="center">HAMZA</h1>
