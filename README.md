@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=C9D1D9&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Architecture+%7C+Cloud+Platforms+%7C+Delivery;Product-minded+Systems+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=C9D1D9&center=true&vCenter=true&width=900&lines=Software+Engineering;Architecture+%7C+Cloud+Platforms+%7C+Delivery;Product-minded+Systems+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://i1-c.pinimg.com/1200x/e1/14/6c/e1146c00c29e186d64fac7989b06df0b.jpg" />
+  <img src="https://wallpapercat.com/w/full/9/5/a/945731-3840x2160-desktop-4k-matte-black-wallpaper-image.jpg" />
 </p>
 
 <h1 align="center">HAMZA HANNAT</h1>
