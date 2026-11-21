@@ -2,7 +2,7 @@
 
 <p align="center">
   Incoming Visiting Associate at <a href="https://www.bcg.com/beyond-consulting/bcg-plantinion"><strong>BCG Platinion</strong></a> · Paris · February 2027<br />
-  <a href="https://france.firstascent.io/"><strong>First Ascent France 2026</strong></a> winner · Bending Spoons
+  Selected by <a href="https://bendingspoons.com/">Bending Spoons</a> for <a href="https://france.firstascent.io/"><strong>First Ascent France 2026</strong></a>
 </p>
 
 <p align="center">
